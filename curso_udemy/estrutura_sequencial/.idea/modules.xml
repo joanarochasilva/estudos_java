@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/atv01/atv01.iml" filepath="$PROJECT_DIR$/atv01/atv01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atv02/atv02.iml" filepath="$PROJECT_DIR$/atv02/atv02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atv03/atv03.iml" filepath="$PROJECT_DIR$/atv03/atv03.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula01/aula01.iml" filepath="$PROJECT_DIR$/aula01/aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula02/aula02.iml" filepath="$PROJECT_DIR$/aula02/aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula03/aula03.iml" filepath="$PROJECT_DIR$/aula03/aula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula04/aula04.iml" filepath="$PROJECT_DIR$/aula04/aula04.iml" />
       <module fileurl="file://$PROJECT_DIR$/estrutura_sequencial.iml" filepath="$PROJECT_DIR$/estrutura_sequencial.iml" />
     </modules>
   </component>
