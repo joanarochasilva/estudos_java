@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/estrutura_condicional/atv01/atv01.iml" filepath="$PROJECT_DIR$/estrutura_condicional/atv01/atv01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_condicional/aula01/aula01.iml" filepath="$PROJECT_DIR$/estrutura_condicional/aula01/aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_condicional/aula02/aula02.iml" filepath="$PROJECT_DIR$/estrutura_condicional/aula02/aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_condicional/aula03/aula03.iml" filepath="$PROJECT_DIR$/estrutura_condicional/aula03/aula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_condicional/aula04/aula04.iml" filepath="$PROJECT_DIR$/estrutura_condicional/aula04/aula04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_condicional/aula05/aula05.iml" filepath="$PROJECT_DIR$/estrutura_condicional/aula05/aula05.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso_udemy.iml" filepath="$PROJECT_DIR$/curso_udemy.iml" />
     </modules>
   </component>
